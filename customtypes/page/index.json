@@ -27,13 +27,13 @@
         "fieldset": "Slice Zone",
         "config": {
           "choices": {
+            "testimonials": {
+              "type": "SharedSlice"
+            },
             "features": {
               "type": "SharedSlice"
             },
             "hero": {
-              "type": "SharedSlice"
-            },
-            "rich_text": {
               "type": "SharedSlice"
             }
           }
